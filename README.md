@@ -10,3 +10,5 @@ https://github.com/leonxlnx/taste-skill
 https://github.com/ComposioHQ/awesome-claude-skills 
 (opcional https://github.com/bergside/design-md-chrome )
 https://github.com/kylezantos/design-motion-principles
+
+https://github.com/swamimalode07/rare-ui
