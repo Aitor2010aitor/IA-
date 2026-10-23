@@ -15,3 +15,4 @@ https://github.com/swamimalode07/rare-ui
 https://github.com/vercel-labs/agent-skills/tree/main
 
 https://github.com/voltagent/awesome-design-md
+https://github.com/microsoft/playwright-mcp
