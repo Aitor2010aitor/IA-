@@ -12,3 +12,6 @@ https://github.com/ComposioHQ/awesome-claude-skills
 https://github.com/kylezantos/design-motion-principles
 
 https://github.com/swamimalode07/rare-ui
+https://github.com/vercel-labs/agent-skills/tree/main
+
+https://github.com/voltagent/awesome-design-md
